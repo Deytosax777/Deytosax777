@@ -131,6 +131,23 @@ Soy un **Junior AI Engineer** enfocado en el desarrollo de sistemas de **IA Gene
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <h3 align="center">🤖 DEVIOZ Agente Transaccional</h3>
+      <p align="center">
+        <a href="https://github.com/Deytosax777/devioz-agente-transaccional">
+          <img src="https://img.shields.io/badge/Ver%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Agente transaccional con IA para procesamiento inteligente de operaciones y flujos de negocio. Backend en <strong>PHP + Docker + Supabase</strong> con integración de modelos de lenguaje.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
